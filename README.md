@@ -14,7 +14,7 @@ The project features a React frontend with a Flask RAG application that validate
 
 ---
 ## 📌 GOOGLE COLLAB LINK FOR TESTING AND EDA
-[https://colab.research.google.com/drive/1lotEGHq7wR0EFOZxB0Td2K1By-juk-wT](url)
+[https://colab.research.google.com/drive/1lotEGHq7wR0EFOZxB0Td2K1By-juk-wT](https://colab.research.google.com/drive/1lotEGHq7wR0EFOZxB0Td2K1By-juk-wT)
 
 ---
 
