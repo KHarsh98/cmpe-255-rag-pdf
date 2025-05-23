@@ -3,6 +3,7 @@
 
 *Team 13*  
 Adityaraj Kaushik, Rishabh Malviya, Kumar Harsh
+[Google Drive Link](https://drive.google.com/drive/folders/0AC4pO4k7wfiGUk9PVA)
 
 ---
 
@@ -13,7 +14,7 @@ It integrates NLP techniques, dense vector embeddings, and visualization tools t
 The project features a React frontend with a Flask RAG application that validates answers using LLM.
 
 ---
-## 📌 GOOGLE COLLAB LINK FOR TESTING AND EDA
+## 📌 GOOGLE COLLAB LINK FOR TESTING AND EDA 
 [https://colab.research.google.com/drive/1lotEGHq7wR0EFOZxB0Td2K1By-juk-wT](https://colab.research.google.com/drive/1lotEGHq7wR0EFOZxB0Td2K1By-juk-wT)
 
 ---
